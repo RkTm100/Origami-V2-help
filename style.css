@@ -1,0 +1,14 @@
+h1{
+    color:black;
+    background-color:yellow;
+}
+.header{
+    background-color: yellow;
+    display:flex ;
+    justify-content: space-between;
+}
+body{
+    background-image: url("wood.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
